@@ -1,0 +1,24 @@
+{
+  "name": "Classic Ring",
+  "description": "Classified as an antique piece from 1910 California, USA.  Once owned by a noble family in agriculture.",
+  "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
+  "attributes": [
+    {
+      "trait_type": "Diamond (Karats)",
+      "value": 3
+    },
+    {
+      "trait_type": "Ring",
+      "value": 18
+    },
+    {
+      "display_type": "date",
+      "trait_type": "sold on",
+      "value": 1634382823
+    },
+    {
+      "trait_type": "Price ",
+      "value": 3920.15
+    }
+  ]
+}

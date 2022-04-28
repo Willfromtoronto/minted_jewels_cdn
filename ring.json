@@ -1,0 +1,24 @@
+{
+  "name": "Classic Ring",
+  "description": "Classified as an antique piece from 1910 California, USA.  Once owned by a noble family in agriculture.",
+  "image": "https://ipfs.io/ipfs/QmZMZ4rVZd2PLBR7zoau3iDTuj28HSsgjQFSCGqmvc3hzA?filename=ring-9-01.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Diamond (Karats)",
+      "value": 3
+    },
+    {
+      "trait_type": "Ring",
+      "value": 18
+    },
+    {
+      "display_type": "date",
+      "trait_type": "sold on",
+      "value": 1634382823
+    },
+    {
+      "trait_type": "Price ",
+      "value": 3920.15
+    }
+  ]
+}
