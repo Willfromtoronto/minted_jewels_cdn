@@ -1,0 +1,27 @@
+{
+  "name": "Classic Ring",
+  "description": "Birks Jewellers International, certifies these appraised specifications.   ",
+  "image": "https://cdn.jsdelivr.net/gh/Willfromtoronto/minted_jewels_cdn/Jewellery-blue.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Sapphire (Karats)",
+      "value": 3
+    },
+    {
+      "trait_type": "Ring",
+      "value": 18
+    },
+    {
+      "display_type": "date",
+      "trait_type": "sold on",
+      "value": 1634382823
+    },
+    {
+      "trait_type": "Price ",
+      "value": 3920.15
+    },
+    {
+      "value": "Certification: #1223"
+    }
+  ]
+}
